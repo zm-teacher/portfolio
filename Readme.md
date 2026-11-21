@@ -1,0 +1,1 @@
+# Bu mening portfolio loyiham

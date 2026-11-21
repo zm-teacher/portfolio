@@ -106,3 +106,11 @@ Push lokal commitlarni serverga yuboradi, pull esa serverdagi yangilanishlarni l
 - Qisqa tarix: `git log --oneline`
 - Branch ro'yxati: `git branch`
 - Masofaviy manzillar: `git remote -v`
+
+## Oddiy ish oqimi
+1. `git status` bilan holatni tekshirish.
+2. Kerakli fayllarga o'zgarish kiritish.
+3. `git diff` yordamida farqni ko'rish.
+4. `git add .` bilan fayllarni tayyorlash.
+5. `git commit -m "Mazmunli xabar"` bilan saqlash.
+6. `git push origin branch-nomi` bilan masofaga yuborish.
